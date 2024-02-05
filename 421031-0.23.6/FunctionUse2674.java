@@ -1,0 +1,6 @@
+import org.apache.hadoop.io.FloatWritable;
+public class FunctionUse2674 {
+public void funcUse() {
+FloatWritable floatwritable = new FloatWritable();
+}
+}
